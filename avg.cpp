@@ -12,3 +12,5 @@ double avg=sum/10;
 cout<<"Average: "<<avg<<endl;
 return 0;
 }
+
+sakulkarni_b24@it.vjti.ac.in
